@@ -1,2 +1,2 @@
 # Frontend
-This is to post my project of frontend technologies
+This is to post my project of frontend technologies.
